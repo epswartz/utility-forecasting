@@ -3,6 +3,7 @@
 Working with Duke’s Facilities Department, we have developed a tool which allows the cleaning and forecasting of utility usage data, for use in accurate budgeting and planning of new buildings.
 
 ## Usage
+0. You will need both python and pip - see https://www.python.org/downloads/
 1. Clone this repo: `git clone https://github.com/epswartz/utility-forecasting.git`
 2. Install packages: `pip install -r requirements.txt`
 3. Run: `voila Forecasting_Tool.ipynb --VoilaConfiguration.file_whitelist="['.*\.csv']`

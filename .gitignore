@@ -1,0 +1,11 @@
+# Temp file from finder on mac os
+.DS_Store
+
+# Temp file left by jupyter
+.ipynb_checkpoints
+
+# Excel's temp files start with $
+~$*
+
+# pycache .pyc compiled files
+*.pyc

@@ -6,7 +6,7 @@ Working with Duke’s Facilities Department, we have developed a tool which allo
 0. You will need both python and pip - see https://www.python.org/downloads/
 1. Clone this repo: `git clone https://github.com/epswartz/utility-forecasting.git`
 2. Install packages: `pip install -r requirements.txt`
-3. Run: `voila Forecasting_Tool.ipynb --VoilaConfiguration.file_whitelist="['.*\.csv']`
+3. Run: `voila Forecasting_Tool.ipynb --VoilaConfiguration.file_whitelist="['.*\.csv']"`
 4. A browser window should open displaying the tool, but if not, you can navigate to http://localhost:8866 yourself.
 
 ### Sample Data

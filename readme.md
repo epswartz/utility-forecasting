@@ -15,8 +15,9 @@ Working with Duke’s Facilities Department, we have developed a tool which allo
 If you'd like to use the tool on windows, our recommendation is that you install it on a linux machine, and talk to it through the web browser - the application should be available on port `8866` of the server by default. Alternatively, you may be able to get it running by installing python, pip and jupyter on your machine, and running the tool as a regular jupyter notebook without voila - we've had a lot of problems with Voila and Windows.
 
 ### Input Data Format
-Excel file with first column labelled as "dt" representing the time/ date the data was recorded and the rest of the columns hold different building's data
-Available date formats are:
+Excel file with first column labelled as "dt" representing the time/ date the data was recorded and the rest of the columns hold different building's data.
+
+#### Available Date Formats
 * `%m/%d/%y %I:%M %p`
 * `%y-%m-%d`
 * `%y/%m/%d`

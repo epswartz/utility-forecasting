@@ -12,3 +12,4 @@
 
 # Exported forecasts
 forecast_*.csv
+anom_datection*.csv

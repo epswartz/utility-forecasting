@@ -11,3 +11,20 @@ Working with Duke’s Facilities Department, we have developed a tool which allo
 
 ### Sample Data
 Sample data is provided in `sample_data/sample_data.csv`. To use this data, choose `15 Minute Data` for "Input Data Frequency" after you upload the data.
+
+## Team
+
+
+### Project Team Members
+* Ethan Swartzentruber
+* Grace Llewellyn
+* Shota Takeshima
+
+### Project Manager
+* Billy Carson
+
+### Project Sponsors
+* John Haws
+* Gagan Kaur
+* Wendy Lesesne
+* Casey Collins

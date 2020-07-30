@@ -9,3 +9,6 @@
 
 # pycache .pyc compiled files
 *.pyc
+
+# Exported forecasts
+forecast_*.csv

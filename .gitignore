@@ -13,3 +13,6 @@
 # Exported forecasts
 forecast_*.csv
 anom_detection*.csv
+
+# Stored models
+*.h5

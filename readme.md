@@ -2,6 +2,9 @@
 
 Working with Duke’s Facilities Department, we have developed a tool which allows the cleaning and forecasting of utility usage data, for use in accurate budgeting and planning of new buildings.
 
+![Screenshot of Tool](tool_screenshot.png)
+
+
 ## Installation/Usage
 
 ### Linux/Mac OS
